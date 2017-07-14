@@ -13,3 +13,5 @@
 - [Image Lazy Loading]() **WIP**
 - [Parallax Image Background]() **WIP**
 - [Network Connectivity Notification]() **WIP**
+- [Sticky Headers]() **WIP**
+- [Sticky Floating Sections (9gag style)]() **WIP**
