@@ -3,12 +3,13 @@
 
 ## Tricks
 
-- [The Infamous Vertically Aligning Elements]() *WIP*
-- [Push button effect]() *WIP*
-- [Gradient Borders]() *WIP*
-- [Android-style Box Shadow]() *WIP*
-- [Popup Modals]() *WIP*
-- [Tooltips]() *WIP*
-- [Carousel]() *WIP*
-- [Image Lazy Loading]() *WIP*
-- [Parallax Image Background]() *WIP*
+- [The Infamous Vertically Aligning Elements]() **WIP**
+- [Push button effect]() **WIP**
+- [Gradient Borders]() **WIP**
+- [Android-style Box Shadow]() **WIP**
+- [Popup Modals]() **WIP**
+- [Tooltips]() **WIP**
+- [Carousel]() **WIP**
+- [Image Lazy Loading]() **WIP**
+- [Parallax Image Background]() **WIP**
+- [Network Connectivity Notification]() **WIP**
